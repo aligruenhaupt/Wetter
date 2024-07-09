@@ -8,18 +8,10 @@ den rohen Daten des deutschen Wetterdienstes bilden und die Daten in eine für d
 
 Die Anwendung soll alle aktiven Wetterstationen auflisten. 
 Der Nutzer sucht sich eine Station aus und dann werden ihm 
-die Daten angezeigt, die er will. 
-
-Aktuell stelle ich mir folgende Funktionen vor:
-- Die Temperatur für die nächsten Tage in 3h Abschnitten
-- Regenwahrscheinlichkeit (optional)
-- Wetterzustand
+die Daten angezeigt, die er will.
 
 TODO:
-Alle Stationen reinnehmen und dann alle Stationen 
+~~Alle Stationen reinnehmen und dann alle Stationen 
 deren Ende Datum vor aktuellerMonat/aktuellesJahr ist 
-entfernen
+entfernen~~ DONE
 
---> es sind 1365 Lines aber nur um die 570 sind aktiv.
-
-vielleicht auch fürs erste, dass man seine stadt anfangsbuchstabe angibt und so viele städte angezeigt werden.
